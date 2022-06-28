@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<batchFile fileCode="06010401">
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1001A.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1001B.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1001C.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1001D.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1001E.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1001F.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1001G.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1002A.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1002B.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1003A.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_102A.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_102B.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_102C.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_102D.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_102E.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_102F.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_102G.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_103A.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_103B.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_103C.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_103D.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_103E.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_103F.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_103G.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_104A.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_104B.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_104C.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_104D.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_104E.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_104F.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_104G.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_105A.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_105B.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_105C.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_105D.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_105E.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1101A.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1101B.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1101C.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1101D.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1101E.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1101F.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1101G.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1202A.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1202B.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1202C.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1202D.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1202E.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1202F.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1202G.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1203A.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1203B.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1203C.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1203D.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1203E.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1203F.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1203G.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1205A.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1205B.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1205C.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1401A.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1501A.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1501B.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1501C.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1501D.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1501E.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1501F.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1501G.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1502A.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1502B.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1502C.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1502D.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1502E.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1502F.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_1502G.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_201A.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_201B.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_201C.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_201D.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_201E.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_201F.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_201G.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_202A.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_202B.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_202C.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_202D.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_202E.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_202F.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_202G.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_203A.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_203B.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_203C.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_203D.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_203E.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_203F.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_203G.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_204A.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_204B.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_204C.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_204D.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_204E.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_205A.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_205B.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_301A.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_301B.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_301C.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_301D.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_301E.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_301F.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_301G.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_303A.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_303B.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_303C.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_303D.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_303E.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_402A.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_402B.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_402C.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_402D.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_402E.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_402F.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_402G.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_403A.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_403B.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_403C.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_403D.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_403E.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_403F.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_403G.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_404A.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_404B.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_404C.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_404D.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_404E.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_404F.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_404G.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_501A.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_501B.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_501C.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_501D.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_501E.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_501F.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_501G.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_502A.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_502B.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_502C.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_502D.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_502E.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_502F.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_502G.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_503A.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_503B.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_503C.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_503D.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_503E.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_702A.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_702B.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_702C.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_702D.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_702E.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_702F.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_702G.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_703A.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_703B.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_703C.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_703D.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_703E.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_703F.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_703G.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_704A.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_704B.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_801A.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_801B.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_801C.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_801D.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_801E.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_801F.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_801G.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_803A.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_803B.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_901A.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_901B.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_901C.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_901D.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_901E.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_901F.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_901G.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_902A.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_902B.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_902C.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_902D.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_902E.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_902F.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_902G.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_903A.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_903B.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_903C.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_903D.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_903E.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_903F.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_905A.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_906A.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_H1760_1994.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_H1760_2004.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_H1760_2011.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_H1760_2018.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_H1823_1994.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_H1823_2004.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_H1823_2011.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_H1823_2019.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_H1847_1994.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_H1847_2004.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_H1847_2011.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_H1870_1994.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_H1870_2004.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_H1870_2011.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_H1916_2004.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_H1916_2009.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_H1916_2017.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_H1944_1994.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_H1944_2004.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_H1944_2009.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+  <ba_parFile>
+    <ba_fileName>C:\Users\Ordinateur\OneDrive - UQAT\Documents\PhD\Chap1\SORTIE\Parametre_SORTIE\lambda\maps\calc_shade_H1944_2018.xml</ba_fileName>
+    <ba_numTimesToRun>1</ba_numTimesToRun>
+  </ba_parFile>
+</batchFile>

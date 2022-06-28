@@ -1,0 +1,17 @@
+status_id,status_desc
+DF,dead fallen
+DFB,dead fallen (beaver)
+DFS,dead fallen (saw)
+DS,dead standing
+DSB,dead standing (beaver)
+DSS,dead standing (saw)
+DL,dead leaning
+DLB,dead leaning (beaver)
+AF,alive fallen
+AB,alive broken
+AS,alive standing
+AL,alive leaning
+DCB,"dead, cut by beaver"
+D,dead
+A,alive
+DCS,"dead, cut by saw"

@@ -1,0 +1,11 @@
+health_id,health_desc
+FR,fire
+FN,fungus
+CD,dry crack
+CH,humid crack
+WO,open wound
+WC,closed wound
+CK,canker
+DI,insect damage
+DH,human damage
+DA,animal damage

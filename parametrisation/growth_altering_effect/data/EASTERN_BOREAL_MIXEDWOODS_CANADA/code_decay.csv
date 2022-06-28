@@ -1,0 +1,11 @@
+decay_class,decay_desc
+S1,recent_small_branches
+S2,large_branches
+S3,broken_over_half
+S4,broken_under_half
+S5,under_2m
+F1,intact
+F2,slight decay
+F3,slight rot
+F4,incorporated
+F5,almost gone

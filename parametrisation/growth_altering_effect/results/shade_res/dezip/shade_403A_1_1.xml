@@ -1,0 +1,1445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timestepRundata fileCode="07050701">
+  <rt_timestep>1</rt_timestep>
+  <tr_treemap>
+    <tm_speciesList>
+      <tm_species speciesName="White_Cedar"/>
+      <tm_species speciesName="Balsam_Fir"/>
+      <tm_species speciesName="Mountain_Maple"/>
+      <tm_species speciesName="White_Spruce"/>
+      <tm_species speciesName="Jack_Pine"/>
+      <tm_species speciesName="Trembling_Aspen"/>
+      <tm_species speciesName="Paper_Birch"/>
+      <tm_species speciesName="Sugar_Maple"/>
+      <tm_species speciesName="Red_Maple"/>
+      <tm_species speciesName="Yellow_Birch"/>
+      <tm_species speciesName="Other"/>
+    </tm_speciesList>
+    <tm_treeSettings sp="White_Cedar" tp="3">
+      <tm_floatCodes>
+        <tm_floatCode label="X">0</tm_floatCode>
+        <tm_floatCode label="Y">1</tm_floatCode>
+        <tm_floatCode label="DBH">2</tm_floatCode>
+        <tm_floatCode label="Height">3</tm_floatCode>
+        <tm_floatCode label="Light">6</tm_floatCode>
+        <tm_floatCode label="Growth">7</tm_floatCode>
+      </tm_floatCodes>
+    </tm_treeSettings>
+    <tm_treeSettings sp="Balsam_Fir" tp="3">
+      <tm_floatCodes>
+        <tm_floatCode label="X">0</tm_floatCode>
+        <tm_floatCode label="Y">1</tm_floatCode>
+        <tm_floatCode label="DBH">2</tm_floatCode>
+        <tm_floatCode label="Height">3</tm_floatCode>
+        <tm_floatCode label="Light">6</tm_floatCode>
+        <tm_floatCode label="Growth">7</tm_floatCode>
+      </tm_floatCodes>
+    </tm_treeSettings>
+    <tm_treeSettings sp="Mountain_Maple" tp="3">
+      <tm_floatCodes>
+        <tm_floatCode label="X">0</tm_floatCode>
+        <tm_floatCode label="Y">1</tm_floatCode>
+        <tm_floatCode label="DBH">2</tm_floatCode>
+        <tm_floatCode label="Height">3</tm_floatCode>
+        <tm_floatCode label="Light">6</tm_floatCode>
+        <tm_floatCode label="Growth">7</tm_floatCode>
+      </tm_floatCodes>
+    </tm_treeSettings>
+    <tm_treeSettings sp="White_Spruce" tp="3">
+      <tm_floatCodes>
+        <tm_floatCode label="X">0</tm_floatCode>
+        <tm_floatCode label="Y">1</tm_floatCode>
+        <tm_floatCode label="DBH">2</tm_floatCode>
+        <tm_floatCode label="Height">3</tm_floatCode>
+        <tm_floatCode label="Light">6</tm_floatCode>
+        <tm_floatCode label="Growth">7</tm_floatCode>
+      </tm_floatCodes>
+    </tm_treeSettings>
+    <tm_treeSettings sp="Jack_Pine" tp="3">
+      <tm_floatCodes>
+        <tm_floatCode label="X">0</tm_floatCode>
+        <tm_floatCode label="Y">1</tm_floatCode>
+        <tm_floatCode label="DBH">2</tm_floatCode>
+        <tm_floatCode label="Height">3</tm_floatCode>
+        <tm_floatCode label="Light">6</tm_floatCode>
+        <tm_floatCode label="Growth">7</tm_floatCode>
+      </tm_floatCodes>
+    </tm_treeSettings>
+    <tm_treeSettings sp="Trembling_Aspen" tp="3">
+      <tm_floatCodes>
+        <tm_floatCode label="X">0</tm_floatCode>
+        <tm_floatCode label="Y">1</tm_floatCode>
+        <tm_floatCode label="DBH">2</tm_floatCode>
+        <tm_floatCode label="Height">3</tm_floatCode>
+        <tm_floatCode label="Light">6</tm_floatCode>
+        <tm_floatCode label="Growth">7</tm_floatCode>
+      </tm_floatCodes>
+    </tm_treeSettings>
+    <tm_treeSettings sp="Paper_Birch" tp="3">
+      <tm_floatCodes>
+        <tm_floatCode label="X">0</tm_floatCode>
+        <tm_floatCode label="Y">1</tm_floatCode>
+        <tm_floatCode label="DBH">2</tm_floatCode>
+        <tm_floatCode label="Height">3</tm_floatCode>
+        <tm_floatCode label="Light">6</tm_floatCode>
+        <tm_floatCode label="Growth">7</tm_floatCode>
+      </tm_floatCodes>
+    </tm_treeSettings>
+    <tm_treeSettings sp="Sugar_Maple" tp="3">
+      <tm_floatCodes>
+        <tm_floatCode label="X">0</tm_floatCode>
+        <tm_floatCode label="Y">1</tm_floatCode>
+        <tm_floatCode label="DBH">2</tm_floatCode>
+        <tm_floatCode label="Height">3</tm_floatCode>
+        <tm_floatCode label="Light">6</tm_floatCode>
+        <tm_floatCode label="Growth">7</tm_floatCode>
+      </tm_floatCodes>
+    </tm_treeSettings>
+    <tm_treeSettings sp="Red_Maple" tp="3">
+      <tm_floatCodes>
+        <tm_floatCode label="X">0</tm_floatCode>
+        <tm_floatCode label="Y">1</tm_floatCode>
+        <tm_floatCode label="DBH">2</tm_floatCode>
+        <tm_floatCode label="Height">3</tm_floatCode>
+        <tm_floatCode label="Light">6</tm_floatCode>
+        <tm_floatCode label="Growth">7</tm_floatCode>
+      </tm_floatCodes>
+    </tm_treeSettings>
+    <tm_treeSettings sp="Yellow_Birch" tp="3">
+      <tm_floatCodes>
+        <tm_floatCode label="X">0</tm_floatCode>
+        <tm_floatCode label="Y">1</tm_floatCode>
+        <tm_floatCode label="DBH">2</tm_floatCode>
+        <tm_floatCode label="Height">3</tm_floatCode>
+        <tm_floatCode label="Light">6</tm_floatCode>
+        <tm_floatCode label="Growth">7</tm_floatCode>
+      </tm_floatCodes>
+    </tm_treeSettings>
+    <tm_treeSettings sp="Other" tp="3">
+      <tm_floatCodes>
+        <tm_floatCode label="X">0</tm_floatCode>
+        <tm_floatCode label="Y">1</tm_floatCode>
+        <tm_floatCode label="DBH">2</tm_floatCode>
+        <tm_floatCode label="Height">3</tm_floatCode>
+      </tm_floatCodes>
+    </tm_treeSettings>
+    <tree sp="1" tp="3">
+      <fl c="0">3.72</fl>
+      <fl c="1">0.57</fl>
+      <fl c="2">13.8078</fl>
+      <fl c="3">12.8796</fl>
+      <fl c="6">0.345545</fl>
+      <fl c="7">3.53916</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">1.91</fl>
+      <fl c="1">0.88</fl>
+      <fl c="2">14.8327</fl>
+      <fl c="3">13.3952</fl>
+      <fl c="6">0.310947</fl>
+      <fl c="7">3.66374</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">7.82</fl>
+      <fl c="1">5.31</fl>
+      <fl c="2">19.5025</fl>
+      <fl c="3">15.3598</fl>
+      <fl c="6">0.506618</fl>
+      <fl c="7">3.01259</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">6.44</fl>
+      <fl c="1">0.86</fl>
+      <fl c="2">20.2737</fl>
+      <fl c="3">15.6314</fl>
+      <fl c="6">0.256554</fl>
+      <fl c="7">3.86848</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">7.96</fl>
+      <fl c="1">7.88</fl>
+      <fl c="2">19.9217</fl>
+      <fl c="3">16.9215</fl>
+      <fl c="6">0.326094</fl>
+      <fl c="7">3.60861</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">2.59</fl>
+      <fl c="1">2.27</fl>
+      <fl c="2">24.0159</fl>
+      <fl c="3">18.333</fl>
+      <fl c="6">0.203424</fl>
+      <fl c="7">4.07952</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">0.15</fl>
+      <fl c="1">10.1</fl>
+      <fl c="2">12.8301</fl>
+      <fl c="3">12.3553</fl>
+      <fl c="6">0.314539</fl>
+      <fl c="7">3.65062</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">3.68</fl>
+      <fl c="1">9.25</fl>
+      <fl c="2">16.2688</fl>
+      <fl c="3">14.063</fl>
+      <fl c="6">0.402314</fl>
+      <fl c="7">3.34382</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">5.36</fl>
+      <fl c="1">9.03</fl>
+      <fl c="2">18.117</fl>
+      <fl c="3">14.8368</fl>
+      <fl c="6">0.332695</fl>
+      <fl c="7">3.58489</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">6.8</fl>
+      <fl c="1">12.07</fl>
+      <fl c="2">18.7209</fl>
+      <fl c="3">15.0705</fl>
+      <fl c="6">0.327242</fl>
+      <fl c="7">3.60448</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">2.14</fl>
+      <fl c="1">11.48</fl>
+      <fl c="2">19.5102</fl>
+      <fl c="3">16.7584</fl>
+      <fl c="6">0.210478</fl>
+      <fl c="7">4.0509</fl>
+    </tree>
+    <tree sp="10" tp="3">
+      <fl c="0">7.85</fl>
+      <fl c="1">20.88</fl>
+      <fl c="2">10.7</fl>
+      <fl c="3">13.3</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">0.5</fl>
+      <fl c="1">21.11</fl>
+      <fl c="2">19.5991</fl>
+      <fl c="3">15.3946</fl>
+      <fl c="6">0.224213</fl>
+      <fl c="7">3.99565</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">6.98</fl>
+      <fl c="1">16.43</fl>
+      <fl c="2">26.8363</fl>
+      <fl c="3">19.1139</fl>
+      <fl c="6">0.17867</fl>
+      <fl c="7">4.18172</fl>
+    </tree>
+    <tree sp="6" tp="3">
+      <fl c="0">2.53</fl>
+      <fl c="1">27.38</fl>
+      <fl c="2">11.0464</fl>
+      <fl c="3">13.0735</fl>
+      <fl c="6">0.436263</fl>
+      <fl c="7">3.23224</fl>
+    </tree>
+    <tree sp="6" tp="3">
+      <fl c="0">0.75</fl>
+      <fl c="1">27.33</fl>
+      <fl c="2">11.4974</fl>
+      <fl c="3">13.3585</fl>
+      <fl c="6">0.360399</fl>
+      <fl c="7">3.48699</fl>
+    </tree>
+    <tree sp="6" tp="3">
+      <fl c="0">5.97</fl>
+      <fl c="1">26.87</fl>
+      <fl c="2">13.2767</fl>
+      <fl c="3">14.3832</fl>
+      <fl c="6">0.550496</fl>
+      <fl c="7">2.88331</fl>
+    </tree>
+    <tree sp="6" tp="3">
+      <fl c="0">4.36</fl>
+      <fl c="1">27.26</fl>
+      <fl c="2">14.5745</fl>
+      <fl c="3">15.0398</fl>
+      <fl c="6">0.393793</fl>
+      <fl c="7">3.37245</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">4.12</fl>
+      <fl c="1">24.15</fl>
+      <fl c="2">27.6988</fl>
+      <fl c="3">19.3263</fl>
+      <fl c="6">0.224655</fl>
+      <fl c="7">3.99376</fl>
+    </tree>
+    <tree sp="6" tp="3">
+      <fl c="0">1.58</fl>
+      <fl c="1">39.77</fl>
+      <fl c="2">11.4089</fl>
+      <fl c="3">13.3034</fl>
+      <fl c="6">0.675552</fl>
+      <fl c="7">2.54438</fl>
+    </tree>
+    <tree sp="6" tp="3">
+      <fl c="0">0.24</fl>
+      <fl c="1">39.19</fl>
+      <fl c="2">22.2345</fl>
+      <fl c="3">17.7447</fl>
+      <fl c="6">0.180863</fl>
+      <fl c="7">4.17263</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">3.38</fl>
+      <fl c="1">37.76</fl>
+      <fl c="2">27.2134</fl>
+      <fl c="3">19.2082</fl>
+      <fl c="6">0.206439</fl>
+      <fl c="7">4.06719</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">4.27</fl>
+      <fl c="1">40</fl>
+      <fl c="2">17.1824</fl>
+      <fl c="3">14.457</fl>
+      <fl c="6">0.540567</fl>
+      <fl c="7">2.91205</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">7.95</fl>
+      <fl c="1">42.38</fl>
+      <fl c="2">17.825</fl>
+      <fl c="3">14.7206</fl>
+      <fl c="6">0.469998</fl>
+      <fl c="7">3.12497</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">7.71</fl>
+      <fl c="1">45.72</fl>
+      <fl c="2">20.4251</fl>
+      <fl c="3">15.6832</fl>
+      <fl c="6">0.321385</fl>
+      <fl c="7">3.62564</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">0.03</fl>
+      <fl c="1">48.5</fl>
+      <fl c="2">19.0427</fl>
+      <fl c="3">15.1914</fl>
+      <fl c="6">0.171147</fl>
+      <fl c="7">4.21341</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">13.83</fl>
+      <fl c="1">1.05</fl>
+      <fl c="2">10.833</fl>
+      <fl c="3">12.1232</fl>
+      <fl c="6">0.457299</fl>
+      <fl c="7">3.16496</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">11.72</fl>
+      <fl c="1">5.49</fl>
+      <fl c="2">13.3703</fl>
+      <fl c="3">13.7492</fl>
+      <fl c="6">0.561527</fl>
+      <fl c="7">2.85168</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">10.88</fl>
+      <fl c="1">7.47</fl>
+      <fl c="2">15.9722</fl>
+      <fl c="3">13.93</fl>
+      <fl c="6">0.750316</fl>
+      <fl c="7">2.36106</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">14.36</fl>
+      <fl c="1">6.89</fl>
+      <fl c="2">15.9847</fl>
+      <fl c="3">13.9357</fl>
+      <fl c="6">0.536636</fl>
+      <fl c="7">2.92353</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">13.99</fl>
+      <fl c="1">1.45</fl>
+      <fl c="2">14.4661</fl>
+      <fl c="3">14.375</fl>
+      <fl c="6">0.763369</fl>
+      <fl c="7">2.33045</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">11.62</fl>
+      <fl c="1">5.46</fl>
+      <fl c="2">25.889</fl>
+      <fl c="3">18.8669</fl>
+      <fl c="6">0.236964</fl>
+      <fl c="7">3.94493</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">14.02</fl>
+      <fl c="1">1.03</fl>
+      <fl c="2">32.2992</fl>
+      <fl c="3">20.2833</fl>
+      <fl c="6">0.224116</fl>
+      <fl c="7">3.99585</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">12.83</fl>
+      <fl c="1">12.67</fl>
+      <fl c="2">13.8162</fl>
+      <fl c="3">12.884</fl>
+      <fl c="6">0.661314</fl>
+      <fl c="7">2.58085</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">14.02</fl>
+      <fl c="1">9.31</fl>
+      <fl c="2">14.0501</fl>
+      <fl c="3">13.0045</fl>
+      <fl c="6">0.597714</fl>
+      <fl c="7">2.75033</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">11.69</fl>
+      <fl c="1">11.32</fl>
+      <fl c="2">16.6761</fl>
+      <fl c="3">14.2415</fl>
+      <fl c="6">0.391428</fl>
+      <fl c="7">3.38042</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">9</fl>
+      <fl c="1">10</fl>
+      <fl c="2">18.2547</fl>
+      <fl c="3">14.8909</fl>
+      <fl c="6">0.788178</fl>
+      <fl c="7">2.27333</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">9.06</fl>
+      <fl c="1">9.6</fl>
+      <fl c="2">23.0189</fl>
+      <fl c="3">18.022</fl>
+      <fl c="6">0.656003</fl>
+      <fl c="7">2.59452</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">15.35</fl>
+      <fl c="1">21.89</fl>
+      <fl c="2">10.6189</fl>
+      <fl c="3">11.0411</fl>
+      <fl c="6">0.656089</fl>
+      <fl c="7">2.59438</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">14.33</fl>
+      <fl c="1">19.24</fl>
+      <fl c="2">23.1706</fl>
+      <fl c="3">18.0706</fl>
+      <fl c="6">0.260593</fl>
+      <fl c="7">3.85285</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">12.32</fl>
+      <fl c="1">22.86</fl>
+      <fl c="2">45.7445</fl>
+      <fl c="3">21.9097</fl>
+      <fl c="6">0.168918</fl>
+      <fl c="7">4.22241</fl>
+    </tree>
+    <tree sp="6" tp="3">
+      <fl c="0">8.93</fl>
+      <fl c="1">29.39</fl>
+      <fl c="2">11.8217</fl>
+      <fl c="3">13.5569</fl>
+      <fl c="6">0.326146</fl>
+      <fl c="7">3.6085</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">15.61</fl>
+      <fl c="1">30.54</fl>
+      <fl c="2">13.4576</fl>
+      <fl c="3">13.8006</fl>
+      <fl c="6">0.277645</fl>
+      <fl c="7">3.78782</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">11.67</fl>
+      <fl c="1">32.95</fl>
+      <fl c="2">32.3445</fl>
+      <fl c="3">20.2915</fl>
+      <fl c="6">0.168918</fl>
+      <fl c="7">4.22261</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">11.12</fl>
+      <fl c="1">41.14</fl>
+      <fl c="2">22.9728</fl>
+      <fl c="3">18.0072</fl>
+      <fl c="6">0.396235</fl>
+      <fl c="7">3.36414</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">10.93</fl>
+      <fl c="1">41.4</fl>
+      <fl c="2">27.962</fl>
+      <fl c="3">19.3889</fl>
+      <fl c="6">0.412495</fl>
+      <fl c="7">3.30982</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">16.31</fl>
+      <fl c="1">5.35</fl>
+      <fl c="2">12.81</fl>
+      <fl c="3">12.3441</fl>
+      <fl c="6">0.673289</fl>
+      <fl c="7">2.55014</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">22.86</fl>
+      <fl c="1">6.72</fl>
+      <fl c="2">13.0466</fl>
+      <fl c="3">12.4742</fl>
+      <fl c="6">0.80618</fl>
+      <fl c="7">2.2328</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">21.46</fl>
+      <fl c="1">3.83</fl>
+      <fl c="2">19.2439</fl>
+      <fl c="3">15.2657</fl>
+      <fl c="6">0.608958</fl>
+      <fl c="7">2.71953</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">19.69</fl>
+      <fl c="1">5.41</fl>
+      <fl c="2">22.6208</fl>
+      <fl c="3">16.3802</fl>
+      <fl c="6">0.476768</fl>
+      <fl c="7">3.10384</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">23.7</fl>
+      <fl c="1">4.78</fl>
+      <fl c="2">24.1071</fl>
+      <fl c="3">18.3605</fl>
+      <fl c="6">0.678982</fl>
+      <fl c="7">2.53557</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">17.81</fl>
+      <fl c="1">0.96</fl>
+      <fl c="2">29.2647</fl>
+      <fl c="3">19.6836</fl>
+      <fl c="6">0.268231</fl>
+      <fl c="7">3.82344</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">23.62</fl>
+      <fl c="1">4.53</fl>
+      <fl c="2">35.109</fl>
+      <fl c="3">20.7452</fl>
+      <fl c="6">0.343843</fl>
+      <fl c="7">3.54493</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">16.02</fl>
+      <fl c="1">11.17</fl>
+      <fl c="2">11.491</fl>
+      <fl c="3">11.5817</fl>
+      <fl c="6">0.711278</fl>
+      <fl c="7">2.45508</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">17.01</fl>
+      <fl c="1">11.48</fl>
+      <fl c="2">11.538</fl>
+      <fl c="3">11.61</fl>
+      <fl c="6">0.825508</fl>
+      <fl c="7">2.19006</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">16.33</fl>
+      <fl c="1">9.26</fl>
+      <fl c="2">12.1463</fl>
+      <fl c="3">11.9686</fl>
+      <fl c="6">0.806663</fl>
+      <fl c="7">2.23172</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">19</fl>
+      <fl c="1">9.77</fl>
+      <fl c="2">11.0835</fl>
+      <fl c="3">12.2956</fl>
+      <fl c="6">0.538627</fl>
+      <fl c="7">2.91774</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">23.22</fl>
+      <fl c="1">11.54</fl>
+      <fl c="2">20.4921</fl>
+      <fl c="3">17.1406</fl>
+      <fl c="6">0.367964</fl>
+      <fl c="7">3.46063</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">23.77</fl>
+      <fl c="1">12.31</fl>
+      <fl c="2">25.9259</fl>
+      <fl c="3">18.8769</fl>
+      <fl c="6">0.642578</fl>
+      <fl c="7">2.62956</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">23.39</fl>
+      <fl c="1">12.11</fl>
+      <fl c="2">30.3442</fl>
+      <fl c="3">19.9102</fl>
+      <fl c="6">0.811321</fl>
+      <fl c="7">2.22122</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">16.17</fl>
+      <fl c="1">10.76</fl>
+      <fl c="2">30.9045</fl>
+      <fl c="3">20.0219</fl>
+      <fl c="6">0.217491</fl>
+      <fl c="7">4.02243</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">22.72</fl>
+      <fl c="1">23.61</fl>
+      <fl c="2">14.834</fl>
+      <fl c="3">14.5756</fl>
+      <fl c="6">0.62737</fl>
+      <fl c="7">2.66996</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">22.87</fl>
+      <fl c="1">23.51</fl>
+      <fl c="2">15.1782</fl>
+      <fl c="3">14.7591</fl>
+      <fl c="6">0.388262</fl>
+      <fl c="7">3.39115</fl>
+    </tree>
+    <tree sp="6" tp="3">
+      <fl c="0">19.41</fl>
+      <fl c="1">20.11</fl>
+      <fl c="2">17.3065</fl>
+      <fl c="3">16.2087</fl>
+      <fl c="6">0.347441</fl>
+      <fl c="7">3.53242</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">22.75</fl>
+      <fl c="1">23.69</fl>
+      <fl c="2">18.3414</fl>
+      <fl c="3">16.2715</fl>
+      <fl c="6">0.613615</fl>
+      <fl c="7">2.70691</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">20.44</fl>
+      <fl c="1">30.46</fl>
+      <fl c="2">12.4199</fl>
+      <fl c="3">13.1704</fl>
+      <fl c="6">0.328603</fl>
+      <fl c="7">3.59964</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">22.88</fl>
+      <fl c="1">29.78</fl>
+      <fl c="2">28.3362</fl>
+      <fl c="3">17.7955</fl>
+      <fl c="6">0.178805</fl>
+      <fl c="7">4.18113</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">20</fl>
+      <fl c="1">37.77</fl>
+      <fl c="2">10.8089</fl>
+      <fl c="3">12.1065</fl>
+      <fl c="6">0.496149</fl>
+      <fl c="7">3.04436</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">23.34</fl>
+      <fl c="1">34.69</fl>
+      <fl c="2">11.2381</fl>
+      <fl c="3">12.4006</fl>
+      <fl c="6">0.449259</fl>
+      <fl c="7">3.1905</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">20.01</fl>
+      <fl c="1">36.15</fl>
+      <fl c="2">12.8522</fl>
+      <fl c="3">13.438</fl>
+      <fl c="6">0.427441</fl>
+      <fl c="7">3.26087</fl>
+    </tree>
+    <tree sp="6" tp="3">
+      <fl c="0">21.26</fl>
+      <fl c="1">34.83</fl>
+      <fl c="2">12.2566</fl>
+      <fl c="3">13.8145</fl>
+      <fl c="6">0.783973</fl>
+      <fl c="7">2.28294</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">20.52</fl>
+      <fl c="1">33.87</fl>
+      <fl c="2">15.3643</fl>
+      <fl c="3">14.8567</fl>
+      <fl c="6">0.268723</fl>
+      <fl c="7">3.82175</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">21.68</fl>
+      <fl c="1">47.72</fl>
+      <fl c="2">10.9119</fl>
+      <fl c="3">11.2261</fl>
+      <fl c="6">0.669569</fl>
+      <fl c="7">2.55964</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">19.99</fl>
+      <fl c="1">42.88</fl>
+      <fl c="2">18.2749</fl>
+      <fl c="3">16.2427</fl>
+      <fl c="6">0.393248</fl>
+      <fl c="7">3.37425</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">19.57</fl>
+      <fl c="1">45.26</fl>
+      <fl c="2">20.3637</fl>
+      <fl c="3">17.0919</fl>
+      <fl c="6">0.57327</fl>
+      <fl c="7">2.81833</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">18.35</fl>
+      <fl c="1">45.47</fl>
+      <fl c="2">24.1667</fl>
+      <fl c="3">18.3784</fl>
+      <fl c="6">0.567817</fl>
+      <fl c="7">2.8337</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">19.26</fl>
+      <fl c="1">45.15</fl>
+      <fl c="2">27.2408</fl>
+      <fl c="3">19.215</fl>
+      <fl c="6">0.445042</fl>
+      <fl c="7">3.20383</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">23.86</fl>
+      <fl c="1">48.31</fl>
+      <fl c="2">19.292</fl>
+      <fl c="3">15.2833</fl>
+      <fl c="6">0.524258</fl>
+      <fl c="7">2.95991</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">22.64</fl>
+      <fl c="1">49.29</fl>
+      <fl c="2">22.3202</fl>
+      <fl c="3">16.2905</fl>
+      <fl c="6">0.653447</fl>
+      <fl c="7">2.60117</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">23.56</fl>
+      <fl c="1">48.73</fl>
+      <fl c="2">39.4359</fl>
+      <fl c="3">21.3142</fl>
+      <fl c="6">0.179171</fl>
+      <fl c="7">4.17943</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">24.38</fl>
+      <fl c="1">6.46</fl>
+      <fl c="2">12.8487</fl>
+      <fl c="3">12.3655</fl>
+      <fl c="6">0.801453</fl>
+      <fl c="7">2.24338</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">30.05</fl>
+      <fl c="1">4.14</fl>
+      <fl c="2">13.1722</fl>
+      <fl c="3">12.5425</fl>
+      <fl c="6">0.558258</fl>
+      <fl c="7">2.86102</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">28.25</fl>
+      <fl c="1">3.85</fl>
+      <fl c="2">14.6152</fl>
+      <fl c="3">13.2885</fl>
+      <fl c="6">0.663276</fl>
+      <fl c="7">2.57579</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">27.43</fl>
+      <fl c="1">0.95</fl>
+      <fl c="2">16.2325</fl>
+      <fl c="3">14.0468</fl>
+      <fl c="6">0.458032</fl>
+      <fl c="7">3.1626</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">26.72</fl>
+      <fl c="1">2.11</fl>
+      <fl c="2">19.6169</fl>
+      <fl c="3">15.401</fl>
+      <fl c="6">0.482984</fl>
+      <fl c="7">3.08463</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">28.57</fl>
+      <fl c="1">0.72</fl>
+      <fl c="2">21.3398</fl>
+      <fl c="3">15.9855</fl>
+      <fl c="6">0.301302</fl>
+      <fl c="7">3.69917</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">30.55</fl>
+      <fl c="1">5.67</fl>
+      <fl c="2">20.0502</fl>
+      <fl c="3">16.9715</fl>
+      <fl c="6">0.287454</fl>
+      <fl c="7">3.75077</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">28.47</fl>
+      <fl c="1">8.23</fl>
+      <fl c="2">11.7297</fl>
+      <fl c="3">12.7278</fl>
+      <fl c="6">0.635468</fl>
+      <fl c="7">2.64844</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">30.25</fl>
+      <fl c="1">10.16</fl>
+      <fl c="2">15.4086</fl>
+      <fl c="3">13.6703</fl>
+      <fl c="6">0.676183</fl>
+      <fl c="7">2.54275</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">26.12</fl>
+      <fl c="1">11.26</fl>
+      <fl c="2">18.6225</fl>
+      <fl c="3">15.033</fl>
+      <fl c="6">0.474038</fl>
+      <fl c="7">3.11237</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">30.15</fl>
+      <fl c="1">20.51</fl>
+      <fl c="2">11.1774</fl>
+      <fl c="3">12.3594</fl>
+      <fl c="6">0.389517</fl>
+      <fl c="7">3.38692</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">30.16</fl>
+      <fl c="1">20.55</fl>
+      <fl c="2">12.3874</fl>
+      <fl c="3">13.15</fl>
+      <fl c="6">0.718699</fl>
+      <fl c="7">2.43693</fl>
+    </tree>
+    <tree sp="6" tp="3">
+      <fl c="0">29.73</fl>
+      <fl c="1">18.14</fl>
+      <fl c="2">12.3893</fl>
+      <fl c="3">13.8913</fl>
+      <fl c="6">0.372068</fl>
+      <fl c="7">3.44653</fl>
+    </tree>
+    <tree sp="6" tp="3">
+      <fl c="0">27.91</fl>
+      <fl c="1">19.98</fl>
+      <fl c="2">22.4009</fl>
+      <fl c="3">17.7862</fl>
+      <fl c="6">0.221987</fl>
+      <fl c="7">4.00451</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">26.81</fl>
+      <fl c="1">29.48</fl>
+      <fl c="2">12.9724</fl>
+      <fl c="3">13.5111</fl>
+      <fl c="6">0.258202</fl>
+      <fl c="7">3.86219</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">29.77</fl>
+      <fl c="1">24.06</fl>
+      <fl c="2">13.2053</fl>
+      <fl c="3">13.6512</fl>
+      <fl c="6">0.216564</fl>
+      <fl c="7">4.02639</fl>
+    </tree>
+    <tree sp="6" tp="3">
+      <fl c="0">28.76</fl>
+      <fl c="1">26.07</fl>
+      <fl c="2">14.2339</fl>
+      <fl c="3">14.8744</fl>
+      <fl c="6">0.309409</fl>
+      <fl c="7">3.66938</fl>
+    </tree>
+    <tree sp="6" tp="3">
+      <fl c="0">27.02</fl>
+      <fl c="1">26.55</fl>
+      <fl c="2">15.8114</fl>
+      <fl c="3">15.6023</fl>
+      <fl c="6">0.34055</fl>
+      <fl c="7">3.55687</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">31.97</fl>
+      <fl c="1">38.92</fl>
+      <fl c="2">14.351</fl>
+      <fl c="3">13.157</fl>
+      <fl c="6">0.286402</fl>
+      <fl c="7">3.75479</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">25.11</fl>
+      <fl c="1">39.04</fl>
+      <fl c="2">16.359</fl>
+      <fl c="3">14.1029</fl>
+      <fl c="6">0.417012</fl>
+      <fl c="7">3.29503</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">30.01</fl>
+      <fl c="1">35.66</fl>
+      <fl c="2">17.2144</fl>
+      <fl c="3">14.4703</fl>
+      <fl c="6">0.487058</fl>
+      <fl c="7">3.07212</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">24.58</fl>
+      <fl c="1">39.34</fl>
+      <fl c="2">29.4401</fl>
+      <fl c="3">18.0141</fl>
+      <fl c="6">0.174211</fl>
+      <fl c="7">4.20037</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">27.73</fl>
+      <fl c="1">33.29</fl>
+      <fl c="2">25.5402</fl>
+      <fl c="3">18.7722</fl>
+      <fl c="6">0.174036</fl>
+      <fl c="7">4.20116</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">30.58</fl>
+      <fl c="1">44.38</fl>
+      <fl c="2">13.7091</fl>
+      <fl c="3">12.8281</fl>
+      <fl c="6">0.343778</fl>
+      <fl c="7">3.54542</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">25.95</fl>
+      <fl c="1">40.22</fl>
+      <fl c="2">14.7394</fl>
+      <fl c="3">13.3496</fl>
+      <fl c="6">0.61731</fl>
+      <fl c="7">2.69695</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">39.29</fl>
+      <fl c="1">2.7</fl>
+      <fl c="2">14.8599</fl>
+      <fl c="3">13.4084</fl>
+      <fl c="6">0.274583</fl>
+      <fl c="7">3.79942</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">34.68</fl>
+      <fl c="1">2.98</fl>
+      <fl c="2">27.5284</fl>
+      <fl c="3">17.6255</fl>
+      <fl c="6">0.188202</fl>
+      <fl c="7">4.14204</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">32.14</fl>
+      <fl c="1">12.22</fl>
+      <fl c="2">12.3996</fl>
+      <fl c="3">13.1576</fl>
+      <fl c="6">0.357256</fl>
+      <fl c="7">3.49796</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">34.22</fl>
+      <fl c="1">9.71</fl>
+      <fl c="2">14.7087</fl>
+      <fl c="3">13.3346</fl>
+      <fl c="6">0.675946</fl>
+      <fl c="7">2.54336</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">37.27</fl>
+      <fl c="1">9.99</fl>
+      <fl c="2">15.0975</fl>
+      <fl c="3">13.5229</fl>
+      <fl c="6">0.515031</fl>
+      <fl c="7">2.98739</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">39.25</fl>
+      <fl c="1">13.79</fl>
+      <fl c="2">15.1868</fl>
+      <fl c="3">13.5656</fl>
+      <fl c="6">0.533003</fl>
+      <fl c="7">2.93418</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">35.07</fl>
+      <fl c="1">8.46</fl>
+      <fl c="2">15.7078</fl>
+      <fl c="3">13.8094</fl>
+      <fl c="6">0.497879</fl>
+      <fl c="7">3.03907</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">34.31</fl>
+      <fl c="1">15.77</fl>
+      <fl c="2">15.3729</fl>
+      <fl c="3">14.8611</fl>
+      <fl c="6">0.39622</fl>
+      <fl c="7">3.36427</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">38.18</fl>
+      <fl c="1">9.93</fl>
+      <fl c="2">20.6596</fl>
+      <fl c="3">15.7624</fl>
+      <fl c="6">0.416067</fl>
+      <fl c="7">3.2981</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">36.82</fl>
+      <fl c="1">14.79</fl>
+      <fl c="2">23.2356</fl>
+      <fl c="3">16.5585</fl>
+      <fl c="6">0.307027</fl>
+      <fl c="7">3.67803</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">36.98</fl>
+      <fl c="1">12.59</fl>
+      <fl c="2">27.0739</fl>
+      <fl c="3">17.5259</fl>
+      <fl c="6">0.256213</fl>
+      <fl c="7">3.86971</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">33.67</fl>
+      <fl c="1">8.22</fl>
+      <fl c="2">33.0429</fl>
+      <fl c="3">18.629</fl>
+      <fl c="6">0.170841</fl>
+      <fl c="7">4.21449</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">32.42</fl>
+      <fl c="1">19.62</fl>
+      <fl c="2">11.8946</fl>
+      <fl c="3">12.8352</fl>
+      <fl c="6">0.364467</fl>
+      <fl c="7">3.47283</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">39.33</fl>
+      <fl c="1">23.17</fl>
+      <fl c="2">26.8206</fl>
+      <fl c="3">19.1099</fl>
+      <fl c="6">0.197686</fl>
+      <fl c="7">4.10295</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">33.15</fl>
+      <fl c="1">28.63</fl>
+      <fl c="2">15.8234</fl>
+      <fl c="3">13.8624</fl>
+      <fl c="6">0.323847</fl>
+      <fl c="7">3.61677</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">34.57</fl>
+      <fl c="1">28.87</fl>
+      <fl c="2">16.2167</fl>
+      <fl c="3">14.0398</fl>
+      <fl c="6">0.333114</fl>
+      <fl c="7">3.58341</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">36.41</fl>
+      <fl c="1">29.55</fl>
+      <fl c="2">17.7689</fl>
+      <fl c="3">14.698</fl>
+      <fl c="6">0.402085</fl>
+      <fl c="7">3.34457</fl>
+    </tree>
+    <tree sp="3" tp="3">
+      <fl c="0">32.46</fl>
+      <fl c="1">24.25</fl>
+      <fl c="2">18.3992</fl>
+      <fl c="3">15.4373</fl>
+      <fl c="6">0.512202</fl>
+      <fl c="7">2.99582</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">39.63</fl>
+      <fl c="1">30.93</fl>
+      <fl c="2">43.7417</fl>
+      <fl c="3">21.7456</fl>
+      <fl c="6">0.1722</fl>
+      <fl c="7">4.20861</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">37.42</fl>
+      <fl c="1">35.64</fl>
+      <fl c="2">12.9747</fl>
+      <fl c="3">12.4349</fl>
+      <fl c="6">0.55398</fl>
+      <fl c="7">2.87328</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">34.01</fl>
+      <fl c="1">34.34</fl>
+      <fl c="2">21.6613</fl>
+      <fl c="3">16.0876</fl>
+      <fl c="6">0.27267</fl>
+      <fl c="7">3.80662</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">39.11</fl>
+      <fl c="1">42.44</fl>
+      <fl c="2">15.523</fl>
+      <fl c="3">13.7238</fl>
+      <fl c="6">0.47319</fl>
+      <fl c="7">3.11503</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">38.22</fl>
+      <fl c="1">44.76</fl>
+      <fl c="2">13.5386</fl>
+      <fl c="3">13.8481</fl>
+      <fl c="6">0.824207</fl>
+      <fl c="7">2.19291</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">38.04</fl>
+      <fl c="1">43.91</fl>
+      <fl c="2">23.8209</fl>
+      <fl c="3">18.2737</fl>
+      <fl c="6">0.476529</fl>
+      <fl c="7">3.10456</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">32.07</fl>
+      <fl c="1">47.16</fl>
+      <fl c="2">26.5918</fl>
+      <fl c="3">19.0516</fl>
+      <fl c="6">0.233367</fl>
+      <fl c="7">3.95914</fl>
+    </tree>
+    <tree sp="3" tp="3">
+      <fl c="0">36.42</fl>
+      <fl c="1">46.93</fl>
+      <fl c="2">41.7974</fl>
+      <fl c="3">25.0824</fl>
+      <fl c="6">0.226251</fl>
+      <fl c="7">3.98719</fl>
+    </tree>
+    <tree sp="3" tp="3">
+      <fl c="0">35.73</fl>
+      <fl c="1">48.33</fl>
+      <fl c="2">36.6869</fl>
+      <fl c="3">23.5121</fl>
+      <fl c="6">0.375421</fl>
+      <fl c="7">3.43472</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">43.81</fl>
+      <fl c="1">3.89</fl>
+      <fl c="2">22.1541</fl>
+      <fl c="3">17.736</fl>
+      <fl c="6">0.282152</fl>
+      <fl c="7">3.77069</fl>
+    </tree>
+    <tree sp="3" tp="3">
+      <fl c="0">43.7</fl>
+      <fl c="1">4.57</fl>
+      <fl c="2">26.2137</fl>
+      <fl c="3">19.4336</fl>
+      <fl c="6">0.666034</fl>
+      <fl c="7">2.5686</fl>
+    </tree>
+    <tree sp="3" tp="3">
+      <fl c="0">44.31</fl>
+      <fl c="1">7.78</fl>
+      <fl c="2">36.8357</fl>
+      <fl c="3">23.5613</fl>
+      <fl c="6">0.17945</fl>
+      <fl c="7">4.1783</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">45.05</fl>
+      <fl c="1">9.15</fl>
+      <fl c="2">13.5287</fl>
+      <fl c="3">12.7333</fl>
+      <fl c="6">0.464097</fl>
+      <fl c="7">3.1435</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">45.71</fl>
+      <fl c="1">14.61</fl>
+      <fl c="2">30.678</fl>
+      <fl c="3">19.9772</fl>
+      <fl c="6">0.251012</fl>
+      <fl c="7">3.88983</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">41.18</fl>
+      <fl c="1">18.43</fl>
+      <fl c="2">11.7777</fl>
+      <fl c="3">11.753</fl>
+      <fl c="6">0.738772</fl>
+      <fl c="7">2.3885</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">43.21</fl>
+      <fl c="1">23.55</fl>
+      <fl c="2">12.5029</fl>
+      <fl c="3">12.1723</fl>
+      <fl c="6">0.687374</fl>
+      <fl c="7">2.51447</fl>
+    </tree>
+    <tree sp="3" tp="3">
+      <fl c="0">42.75</fl>
+      <fl c="1">23.26</fl>
+      <fl c="2">18.1681</fl>
+      <fl c="3">15.3043</fl>
+      <fl c="6">0.403259</fl>
+      <fl c="7">3.34064</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">41.76</fl>
+      <fl c="1">16.98</fl>
+      <fl c="2">17.9763</fl>
+      <fl c="3">16.1119</fl>
+      <fl c="6">0.391159</fl>
+      <fl c="7">3.38131</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">41.61</fl>
+      <fl c="1">31.65</fl>
+      <fl c="2">20.7979</fl>
+      <fl c="3">15.8086</fl>
+      <fl c="6">0.514244</fl>
+      <fl c="7">2.98969</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">45.24</fl>
+      <fl c="1">26.86</fl>
+      <fl c="2">21.1127</fl>
+      <fl c="3">15.9121</fl>
+      <fl c="6">0.207417</fl>
+      <fl c="7">4.0633</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">45.2</fl>
+      <fl c="1">36.25</fl>
+      <fl c="2">10.9492</fl>
+      <fl c="3">11.2494</fl>
+      <fl c="6">0.599248</fl>
+      <fl c="7">2.74612</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">43.91</fl>
+      <fl c="1">37.93</fl>
+      <fl c="2">12.7058</fl>
+      <fl c="3">12.2862</fl>
+      <fl c="6">0.68162</fl>
+      <fl c="7">2.52898</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">41.06</fl>
+      <fl c="1">39.84</fl>
+      <fl c="2">13.834</fl>
+      <fl c="3">12.8932</fl>
+      <fl c="6">0.455704</fl>
+      <fl c="7">3.17</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">44.17</fl>
+      <fl c="1">37.01</fl>
+      <fl c="2">17.8132</fl>
+      <fl c="3">14.7158</fl>
+      <fl c="6">0.489122</fl>
+      <fl c="7">3.06578</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">40.88</fl>
+      <fl c="1">34.78</fl>
+      <fl c="2">23.1101</fl>
+      <fl c="3">16.5227</fl>
+      <fl c="6">0.342299</fl>
+      <fl c="7">3.55056</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">46.31</fl>
+      <fl c="1">37.15</fl>
+      <fl c="2">37.2445</fl>
+      <fl c="3">21.0454</fl>
+      <fl c="6">0.168918</fl>
+      <fl c="7">4.22254</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">41.93</fl>
+      <fl c="1">43.5</fl>
+      <fl c="2">12.1405</fl>
+      <fl c="3">11.9652</fl>
+      <fl c="6">0.819797</fl>
+      <fl c="7">2.2026</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">41.46</fl>
+      <fl c="1">43.81</fl>
+      <fl c="2">13.8969</fl>
+      <fl c="3">14.0553</fl>
+      <fl c="6">0.924104</fl>
+      <fl c="7">1.98443</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">41.69</fl>
+      <fl c="1">44.11</fl>
+      <fl c="2">21.5493</fl>
+      <fl c="3">17.5265</fl>
+      <fl c="6">0.599032</fl>
+      <fl c="7">2.74664</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">41.25</fl>
+      <fl c="1">42.66</fl>
+      <fl c="2">23.1331</fl>
+      <fl c="3">18.0587</fl>
+      <fl c="6">0.182519</fl>
+      <fl c="7">4.16571</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">40.78</fl>
+      <fl c="1">48.58</fl>
+      <fl c="2">53.1236</fl>
+      <fl c="3">22.3634</fl>
+      <fl c="6">0.323381</fl>
+      <fl c="7">3.61799</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">49.19</fl>
+      <fl c="1">11.02</fl>
+      <fl c="2">14.7044</fl>
+      <fl c="3">14.5054</fl>
+      <fl c="6">0.350467</fl>
+      <fl c="7">3.52178</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">48.45</fl>
+      <fl c="1">11.97</fl>
+      <fl c="2">25.7634</fl>
+      <fl c="3">17.2219</fl>
+      <fl c="6">0.269895</fl>
+      <fl c="7">3.81714</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">48.56</fl>
+      <fl c="1">19.59</fl>
+      <fl c="2">10.7827</fl>
+      <fl c="3">11.145</fl>
+      <fl c="6">0.728292</fl>
+      <fl c="7">2.41366</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">49.26</fl>
+      <fl c="1">19.27</fl>
+      <fl c="2">26.6555</fl>
+      <fl c="3">19.0679</fl>
+      <fl c="6">0.422272</fl>
+      <fl c="7">3.27763</fl>
+    </tree>
+    <tree sp="9" tp="3">
+      <fl c="0">49.51</fl>
+      <fl c="1">16.75</fl>
+      <fl c="2">44.605</fl>
+      <fl c="3">21.8189</fl>
+      <fl c="6">0.216775</fl>
+      <fl c="7">4.02512</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">48.87</fl>
+      <fl c="1">25.45</fl>
+      <fl c="2">13.5892</fl>
+      <fl c="3">12.7652</fl>
+      <fl c="6">0.372267</fl>
+      <fl c="7">3.44584</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">48.55</fl>
+      <fl c="1">35.38</fl>
+      <fl c="2">11.6176</fl>
+      <fl c="3">11.6577</fl>
+      <fl c="6">0.331906</fl>
+      <fl c="7">3.58777</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">49.82</fl>
+      <fl c="1">42.29</fl>
+      <fl c="2">13.0076</fl>
+      <fl c="3">12.4529</fl>
+      <fl c="6">0.498274</fl>
+      <fl c="7">3.03788</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">48.29</fl>
+      <fl c="1">46.17</fl>
+      <fl c="2">13.4124</fl>
+      <fl c="3">12.6715</fl>
+      <fl c="6">0.490448</fl>
+      <fl c="7">3.06175</fl>
+    </tree>
+    <tree sp="1" tp="3">
+      <fl c="0">48.34</fl>
+      <fl c="1">45.14</fl>
+      <fl c="2">15.479</fl>
+      <fl c="3">13.7033</fl>
+      <fl c="6">0.387151</fl>
+      <fl c="7">3.39492</fl>
+    </tree>
+    <tree sp="6" tp="3">
+      <fl c="0">49.11</fl>
+      <fl c="1">41.87</fl>
+      <fl c="2">14.7176</fl>
+      <fl c="3">15.1079</fl>
+      <fl c="6">0.331802</fl>
+      <fl c="7">3.58813</fl>
+    </tree>
+  </tr_treemap>
+</timestepRundata>
