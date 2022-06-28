@@ -4,8 +4,8 @@
 # the amount of light received by each tree. The quantity of light received by each 
 # tree will be useful during the parametrization since it is the variable S. 
 # The parameter files are executed with a batch file created here, the batch file
-# execute SORTIE simulations for LDTRF and RESEF, so script to prepare data for
-# LDTRF should execute before this script. 
+# execute SORTIE simulations for LDRTF and RESEF, so script to prepare data for
+# LDRTF should execute before this script. 
 
 #setwd à enlever après
 setwd("~/PhD/Chap1/Github/parametrisation/growth_altering_effect/code")
@@ -89,7 +89,7 @@ prep_sortie_files <- function(PLS, LAT, data) {
 # Executer la fonction pour chaque element de dendro_list
 pwalk(dendro_list, prep_sortie_files)
 
-# Once all the parameter files for the resef and LDTRF are created, 
+# Once all the parameter files for the resef and LDRTF are created, 
 # we create a batch file that will execute all the newly created parameter files. 
 par_files <- dir("../results/maps", pattern = ".xml")
 batch_xml <- read_xml("../data/calc_shade_all.xml")

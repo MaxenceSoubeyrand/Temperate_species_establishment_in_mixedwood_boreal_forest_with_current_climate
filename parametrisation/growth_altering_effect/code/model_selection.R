@@ -13,7 +13,7 @@ library(rstan)
 library(loo)
 library(posterior)
 
-# Reading RESEF and LDTRF growth data and neighborhood data
+# Reading RESEF and LDRTF growth data and neighborhood data
 dat <- readRDS("../data/nci_dat.rds") %>% 
   mutate(PLS_PPA=paste0(PLS,"_", PPA))
 
@@ -214,7 +214,7 @@ for(sp in list_sp){
 }
 
 #Save the potential growth for correcting biais of parametrisation of climate effect on MaxPotGrowth 
-saveRDS(PG, file="../results/paramater_value/potential_growth_resef_ldtrf.rds")
+saveRDS(PG, file="../results/paramater_value/potential_growth_resef_ldrtf.rds")
 
 #Save the scale coefficient to apply them on the data of the climate parametrisation
 saveRDS(coef_scale, file="../results/paramater_value/coef_scale.rds")

@@ -1,5 +1,5 @@
 # This script is used to extract the light data from the output simulations and 
-# merge them with the data from LDTRF and REEF. We merge the data from LDTRF 
+# merge them with the data from LDRTF and REEF. We merge the data from LDRTF 
 #and RESEF into one dataset. Finally, we create a dataset that for each tree, 
 #lists all its neighbors, the distance to the focal tree, and their diameters.
 
@@ -8,7 +8,6 @@ rm(list=ls())
 setwd("~/PhD/Chap1/Github/parametrisation/growth_altering_effect/code")
 
 library(tidyverse)
-library(RODBC)
 library(xml2)
 
 # Extract the shadow value calculated by SORTIE --------------------------
@@ -58,8 +57,8 @@ dendro_resef <- select(dendro_resef, -LAT, -Type, -Height) %>%
                     `ERS`="Sugar_Maple", `EPB`="White_Spruce",
                     `BOJ`="Yellow_Birch", `ERR`="Red_Maple"))
 
-# Combine with LDTRF data and remove unwanted columns
-dendro_ldtrf <- readRDS("data/dendro_sel_ldtrf.rds") %>% 
+# Combine with LDRTF data and remove unwanted columns
+dendro_ldrtf <- readRDS("data/dendro_sel_ldrtf.rds") %>% 
   mutate(PLS=plot_id_year) %>% 
   separate(plot_id_year, c("PLACE", "ANNEE")) %>% 
   mutate(ANNEE=as.numeric(ANNEE)) %>% 
@@ -67,7 +66,7 @@ dendro_ldtrf <- readRDS("data/dendro_sel_ldtrf.rds") %>%
   select(-Type, -lat, -Height) 
 
 # Combine the two data frame 
-dendro <- bind_rows(dendro_resef, dendro_ldtrf)
+dendro <- bind_rows(dendro_resef, dendro_ldrtf)
 
 # Adding the Light results
 nci_dat <- left_join(dendro, sortie_res)

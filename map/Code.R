@@ -18,7 +18,7 @@ library(ggplotify)
 PEP <- read.csv("../parametrisation/MaxPotGrowth/data/PEP_climateNA_1970-2019MSY.csv") %>% 
   select(ID1, Latitude, Longitude) %>% unique() %>% 
   filter(!ID1 %in% c("8809410701", "8809411502")) %>% mutate(plot_name=as.character(1:10))
-LDTRF <- read.csv("../parametrisation/MaxPotGrowth/data/LDTRF_climateNA_1970-2019MSY.csv") %>% 
+LDRTF <- read.csv("../parametrisation/MaxPotGrowth/data/LDRTF_climateNA_1970-2019MSY.csv") %>% 
   select(ID1=ID2, Latitude, Longitude) %>% unique() %>%
   mutate(plot_name="")
 
@@ -40,8 +40,8 @@ lim_boj <- spTransform(lim_boj, CRS("+proj=longlat +ellps=WGS84 +datum=WGS84"))
 lims <- raster::bind(lim_ers, lim_err, lim_boj)
 
 PEP <- PEP %>% mutate(ID="Validation plot") %>% select(-ID1)
-LDTRF <- LDTRF %>% mutate(ID="LDRTF") %>% select(-ID1)
-data <- rbind(PEP, LDTRF)
+LDRTF <- LDRTF %>% mutate(ID="LDRTF") %>% select(-ID1)
+data <- rbind(PEP, LDRTF)
 
 # Get the BF-YB and BF-PB domains
 dom_bio_map <- subset(dom_bio, dom_bio$DOM_BIO %in% c("4", "5"))

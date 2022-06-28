@@ -13,7 +13,7 @@ setwd("~/PhD/Chap1/Github/parametrisation/growth_altering_effect/code")
 library(tidyverse)
 library(xml2)
 
-# Preparing LDTRF data -----
+# Preparing LDRTF data -----
 # Data from Maleki et al 2021 https://doi.org/10.1002/ecy.3306
 hectare_stems <- read.csv("../data/EASTERN_BOREAL_MIXEDWOODS_CANADA/hectare_stems.csv")
 hectare_stem_meas <- read.csv("../data/EASTERN_BOREAL_MIXEDWOODS_CANADA/hectare_stem_meas.csv")
@@ -21,7 +21,7 @@ hectare_plots <- read.csv("../data/EASTERN_BOREAL_MIXEDWOODS_CANADA/hectare_plot
 # Species names to correspond with the resef data set
 sp_names <- read.csv("../data/sp_names.csv")
 
-# Preparation of the data to LDTRF and RESEF dataset can be combined
+# Preparation of the data to LDRTF and RESEF dataset can be combined
 dendro_sel <- full_join(hectare_stems, hectare_stem_meas) %>% 
   full_join(hectare_plots) %>% 
   unite(plot_id_year, c(plot_id, year), sep="_") %>% 
@@ -34,7 +34,7 @@ dendro_sel <- full_join(hectare_stems, hectare_stem_meas) %>%
   rename(X = x, Y=y, Diam=dbh) 
 
 # Save the prepared data
-saveRDS(dendro_sel, "../results/dendro_sel_ldtrf.rds")
+saveRDS(dendro_sel, "../results/dendro_sel_ldrtf.rds")
 
 # Prepare parameter files for light -----
 # Prepare the data to get the amount of light receive for each tree

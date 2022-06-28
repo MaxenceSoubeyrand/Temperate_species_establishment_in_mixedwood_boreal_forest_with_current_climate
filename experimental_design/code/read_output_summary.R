@@ -2,6 +2,8 @@
 
 rm(list=ls())
 
+library(tidyverse)
+
 # setwd à enlever après
 setwd("~/PhD/Chap1/Github/experimental_design/code")
 

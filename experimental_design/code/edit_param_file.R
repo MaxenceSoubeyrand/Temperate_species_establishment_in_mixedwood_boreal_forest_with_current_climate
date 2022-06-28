@@ -18,7 +18,7 @@ source("../../validation/code/edit_param_functions.R")
 # Creation of controls here only.
 # Here we create the parameter files to make the tree map. 
 
-# Initial conditions from LDTRF data:
+# Initial conditions from LDRTF data:
 data <- read.csv("../data/transect_meas.csv")
 data$plot_id[data$plot_id=="1919-T1-0-50"] <- "1919-T1-0050"
 data$plot_id[data$plot_id=="1919-T1--100"] <- "1919-T1-0100"
@@ -61,9 +61,9 @@ data_ST <- data %>%
   group_by(plot_id, species_id) %>% 
   summarize(ST=sum(ST))
 
-#Get the MaxPotGrowth of species in LDTRF
-LDTRF_PEP_growth <- readRDS("../../parametrisation/MaxPotGrowth/results/LDTRF_PEP_MaxPotGrowth.rds")
-LDTRF_growth <- filter(LDTRF_PEP_growth, ID=="LDTRF") %>% 
+#Get the MaxPotGrowth of species in LDRTF
+LDRTF_PEP_growth <- readRDS("../../parametrisation/MaxPotGrowth/results/LDRTF_PEP_MaxPotGrowth.rds")
+LDRTF_growth <- filter(LDRTF_PEP_growth, ID=="LDRTF") %>% 
   select(ID, species, growth_no_bias) %>% 
   mutate(species=str_replace(species,"\n", "_"))
 
@@ -80,7 +80,7 @@ for(i in unique(data$plot_id)){
   data2 <- filter(data, plot_id==i, year==year_start)
   #NA because there is no seeding rate since these are the controls
   file_name <- paste0(i,"_control_NA") 
-  create_param_file(data=data2, file_name=file_name, growth=LDTRF_growth, 
+  create_param_file(data=data2, file_name=file_name, growth=LDRTF_growth, 
                     timesteps=timesteps, out_dir=out_dir, par_dir=par_dir, par_name="../../validation/data/Parameter_file.xml") 
 
   #I then open the parameter file to change the plot size
@@ -108,7 +108,7 @@ for(i in unique(har_IC$plot_id)){
   ####Control --> without temperate Hardwoods
   semis2 <- filter(har_IC, plot_id==i)
   file_name <- paste0(i,"_control_NA") 
-  create_param_file(data=semis2, file_name=file_name, growth=LDTRF_growth, 
+  create_param_file(data=semis2, file_name=file_name, growth=LDRTF_growth, 
                     timesteps=timesteps, out_dir=out_dir, par_dir=par_dir, par_name="../../validation/data/Parameter_file.xml") 
   
   par_xml <- read_xml(paste0(par_dir, "/", file_name, ".xml"))

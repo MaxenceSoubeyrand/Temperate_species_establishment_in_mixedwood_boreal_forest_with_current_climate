@@ -1,0 +1,12 @@
+# Experimental design
+
+Initial condition for the experimental design are based on the data coming from Maleki, K., Marchand, P., Charron, D., Lafleur, B., and Bergeron, Y.. 2021. A 249-yr chronosequence of forest plots from eight successive fires in the Eastern Canada boreal mixedwoods. Ecology 102(5):e03306. 10.1002/ecy.3306. In this data, we selected 6 fire year representing our 6 unharvested stands. Two other stands for initial condition representing the harvested stand are coming from Brais, S., Work, T., Robert, É., O’Connor, C., Strukelj, M., Bose, A., Celentano, D., & Harvey, B. (2013). Ecosystem Responses to Partial Harvesting in Eastern Boreal Mixedwood Stands. Forests, 4(2), 364–385. https://doi.org/10.3390/f4020364. In this 8 stands we added seedlings of sug	ar maple, red maple and yellow birch alone or altogether and at different densities (low: 500 seedlings/h; medium: 5000 seedling/h and high: 10000 seedlings/h). We also execute the simulations without temperate species as control. To prepare the simulations and visualise the results, please follow this order: 
+- edit_param_file.R: Create the control stands (without temperate species) parameter file. The position of the trees will be then used for testing scenarios to keep the same position of boreal mixedwood trees in all scenarios. 
+- execute this 8 parameters file with SORTIE for one time step, we just want to get the tree map. 
+- tree_map_edit.R: Get the tree maps of the control stands and add the temperate seedlings scenarios. One text file with position of boreal mixedwood trees and temperate seedling per scenario and stands is created. This script created one parameter file per tree map created just before. 
+- Execute all parameter files with SORTIE. 
+- read_output_summary.R: combine all summary results into one data frame. 
+- read_output_detailed.R: create as many results data frame as simulations. 
+- combine_output_df.R: combine all data frame created previously into one large. 
+- BA_temperate_species.R: plot of the basal area of sugar maple, yellow birch and red maple in the different scenario tested (Fig. 5). 
+- PCA_temperate_species: plot of the trajectories of temperate species in the multivariate space (Fig. 6).
