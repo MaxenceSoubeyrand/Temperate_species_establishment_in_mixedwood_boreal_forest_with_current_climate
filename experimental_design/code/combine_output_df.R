@@ -2,9 +2,6 @@
 
 rm(list=ls())
 
-# setwd à enlever après
-setwd("~/PhD/Chap1/Github/experimental_design/code")
-
 library(tidyverse)
 
 files_adult <- dir("../results/out_df", full.names = T)

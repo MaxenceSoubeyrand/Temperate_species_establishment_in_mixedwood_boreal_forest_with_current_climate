@@ -1,8 +1,6 @@
 # Script for comparing validation data and simulation for trees with ellipses comparison.
 
 rm(list=ls())
-# setwd à enlever après
-setwd("~/PhD/Chap1/Github/validation/code")
 
 library(RColorBrewer)
 library(factoextra)

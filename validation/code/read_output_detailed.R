@@ -2,8 +2,6 @@
 # results containing, X, Y, species identification, DBH and tree growth every 5 years.
 
 rm(list=ls())
-# setwd à enlever après
-setwd("~/PhD/Chap1/Github/validation/code")
 
 library(raster)
 library(tidyverse)

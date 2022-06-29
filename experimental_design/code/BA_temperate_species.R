@@ -2,9 +2,6 @@
 # function of simulated scenarios.
 rm(list=ls())
 
-# setwd à enlever après
-setwd("~/PhD/Chap1/Temperate_species_establishment_in_mixedwood_boreal_forest_with_current_climate/experimental_design/code")
-
 library(tidyverse)
 library(ggpubr)
 theme_set(theme_bw())

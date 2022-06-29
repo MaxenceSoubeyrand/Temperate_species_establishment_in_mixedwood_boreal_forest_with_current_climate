@@ -4,8 +4,6 @@
 #lists all its neighbors, the distance to the focal tree, and their diameters.
 
 rm(list=ls())
-#setwd à enlever après
-setwd("~/PhD/Chap1/Github/parametrisation/growth_altering_effect/code")
 
 library(tidyverse)
 library(xml2)

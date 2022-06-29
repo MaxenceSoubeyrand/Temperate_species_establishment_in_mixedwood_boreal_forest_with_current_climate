@@ -4,9 +4,6 @@
 
 rm(list=ls())
 
-#setwd à enlever après
-setwd("~/PhD/Chap1/Github/parametrisation/growth_altering_effect/code")
-
 library(tidyverse)
 library(cmdstanr)
 library(rstan)

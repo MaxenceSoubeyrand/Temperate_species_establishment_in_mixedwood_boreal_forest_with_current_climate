@@ -3,9 +3,6 @@
 
 rm(list=ls())
 
-# setwd à enlever après
-setwd("~/PhD/Chap1/Github/validation/code")
-
 library(xml2)
 library(tidyverse)
 

@@ -2,10 +2,6 @@
 
 rm(list=ls())
 
-# setwd à enlever après
-setwd("~/PhD/Chap1/Github/map")
-
-
 library(tidyverse)
 library(rgdal)
 library(sf)

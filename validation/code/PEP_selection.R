@@ -2,8 +2,6 @@
 # the validation process and transform the data to be used by SORTIE
 
 rm(list=ls())
-# setwd à enlever après
-setwd("~/PhD/Chap1/Temperate_species_establishment_in_mixedwood_boreal_forest_with_current_climate/validation/code")
 
 library(tidyverse)
 

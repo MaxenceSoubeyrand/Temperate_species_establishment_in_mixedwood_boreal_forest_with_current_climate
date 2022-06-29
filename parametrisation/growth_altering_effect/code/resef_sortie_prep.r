@@ -7,8 +7,7 @@
 # execute SORTIE simulations for LDRTF and RESEF, so script to prepare data for
 # LDRTF should execute before this script. 
 
-#setwd à enlever après
-setwd("~/PhD/Chap1/Github/parametrisation/growth_altering_effect/code")
+rm(list=ls())
 
 library(tidyverse)
 library(xml2)

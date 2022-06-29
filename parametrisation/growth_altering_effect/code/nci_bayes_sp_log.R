@@ -2,8 +2,6 @@
 # In this script, we run the full model (all species interaction) with log-normal distribution of errors. 
 
 rm(list=ls())
-#setwd à enlever après
-setwd("~/PhD/Chap1/Github/parametrisation/growth_altering_effect/code")
 
 library(tidyverse)
 library(cmdstanr)

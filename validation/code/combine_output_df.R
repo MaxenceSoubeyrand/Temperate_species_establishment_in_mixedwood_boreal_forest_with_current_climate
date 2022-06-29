@@ -1,8 +1,6 @@
 # Combine all plot results into one table. 
 
 rm(list=ls())
-# setwd à enlever après
-setwd("~/PhD/Chap1/Github/validation/code")
 
 library(tidyverse)
 

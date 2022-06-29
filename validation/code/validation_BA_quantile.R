@@ -2,8 +2,6 @@
 #Basal area comparison and quantile comparison
 
 rm(list=ls())
-# setwd à enlever après
-setwd("~/PhD/Chap1/Github/validation/code")
 
 library(tidyverse)
 theme_set(theme_bw())

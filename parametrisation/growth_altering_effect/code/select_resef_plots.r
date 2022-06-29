@@ -2,8 +2,6 @@
 # present in the data, so that some pairs are not over represented on others. 
 
 rm(list=ls())
-#setwd à enlever après
-setwd("~/PhD/Chap1/Temperate_species_establishment_in_mixedwood_boreal_forest_with_current_climate/parametrisation/growth_altering_effect/code")
 
 library(tidyverse)
 

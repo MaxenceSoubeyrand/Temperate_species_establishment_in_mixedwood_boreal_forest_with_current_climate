@@ -4,11 +4,7 @@
 # -Compute the growth climate relationship
 # -Compute growth for the initial conditions --> PEP and LDRTF
 
-
 rm(list=ls())
-
-
-setwd("~/PhD/Chap1/Temperate_species_establishment_in_mixedwood_boreal_forest_with_current_climate/parametrisation/MaxPotGrowth/code")
 
 library(tidyverse)
 theme_set(theme_bw())
