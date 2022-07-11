@@ -276,7 +276,7 @@ png(filename = "../results/MaxPotGrowth_climate_relationship_temp_species.png", 
 ggplot(data=filter(response_curve_data, species %in% c("Sugar Maple", "Red Maple", "Yellow Birch")), aes(x=x, y=exp(y), ymin=exp(y-se), ymax=exp(y+se))) + 
   geom_line() + geom_ribbon(alpha=0.2) +
   facet_grid(species~fix_eff, scales="free_x") +
-  ylab("MaxPotGrowth (in cm)") + xlab("fixed scale effect")+
+  ylab("MaxPotGrowth (in cm)") + xlab("Fixed scale effect")+
   theme(axis.text = element_text(size = 14),
         axis.title = element_text(size = 14),
         strip.text = element_text(size = 12)) +

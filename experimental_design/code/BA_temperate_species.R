@@ -72,7 +72,7 @@ plot_1_1 <- ggplot(filter(res_mean, species_test != "All"),
   facet_grid(~species, scales = "free_x", space = "free_x") +
   scale_x_discrete(name ="Density") +
   theme(plot.caption = element_text(hjust = 0)) + 
-  ylab(expression("Adult basal area at time 109 years "~(m^2/h)))+
+  ylab(expression("Adult basal area at time 109 years "~(m^2~h^-1)))+
   scale_color_discrete("Fire year") +
   theme(axis.text = element_text(size = 14),
         axis.title = element_text(size = 14),
@@ -90,7 +90,7 @@ plot_all <- ggplot(filter(res_mean, species_test == "All"),
   facet_grid(~species, scales = "free_x", space = "free_x") +
   scale_x_discrete(name ="Density") +
   theme(plot.caption = element_text(hjust = 0)) + 
-  ylab(expression("Adult basal area at time 109 years "~(m^2/h)))+
+  ylab(expression("Adult basal area at time 109 years "~(m^2~h^-1)))+
   scale_color_discrete("Fire year") +
   theme(axis.text = element_text(size = 14),
         axis.title = element_text(size = 14),
