@@ -44,3 +44,5 @@ We thank the Natural Science and Engineering Research Council of Canada to suppo
 
 ## Notes 
 We used the computing resources of the Digital Research Alliance of Canada to execute the Bayesian models, and the simulations with SORTIE-ND.
+
+[![DOI](https://zenodo.org/badge/508064540.svg)](https://zenodo.org/badge/latestdoi/508064540)
