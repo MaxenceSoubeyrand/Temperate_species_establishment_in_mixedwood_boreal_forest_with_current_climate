@@ -4,7 +4,7 @@ This repository contains the R code and data to retrieve the results and graphs 
 
 ## Citation 
 
-Soubeyrand M., Blarquez O., Gennaretti F., Bergeron Y., Taylor A., D'Orangeville L. and Marchand P. (In prep) Competition and current climate do not impede temperate species to establish in boreal mixedwood forest. *Ecography*.
+Soubeyrand M., Blarquez O., Gennaretti F., Bergeron Y., Taylor A., D'Orangeville L. and Marchand P. (In prep) Competition and current climate do not impede temperate species to establish in boreal mixedwood forest. *Ecography* e06525 https://doi.org/10.1111/ecog.06525
 
 Please cite this article for any work that re-uses this code.
 

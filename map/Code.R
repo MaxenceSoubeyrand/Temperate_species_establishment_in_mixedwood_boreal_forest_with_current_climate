@@ -35,7 +35,7 @@ lim_boj <- spTransform(lim_boj, CRS("+proj=longlat +ellps=WGS84 +datum=WGS84"))
 
 lims <- raster::bind(lim_ers, lim_err, lim_boj)
 
-PEP <- PEP %>% mutate(ID="Validation plot") %>% select(-ID1)
+PEP <- PEP %>% mutate(ID="Validation plots") %>% select(-ID1)
 LDRTF <- LDRTF %>% mutate(ID="LDRTF") %>% select(-ID1)
 data <- rbind(PEP, LDRTF)
 
