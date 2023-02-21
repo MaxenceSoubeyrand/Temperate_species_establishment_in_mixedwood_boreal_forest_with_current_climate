@@ -1,6 +1,6 @@
 # Competition and current climate do not impede temperate species to establish in boreal mixedwood forest
 
-This repository contains the R code and data to retrieve the results and graphs from the "DOI of the article when available" study. We aimed to determine if present climate and competition are factors that prevent the establishment of temperate hardwood species, i.e., sugar maple, red maple, and yellow birch, from becoming established just above their continuous northern limit of distribution. 
+This repository contains the R code and data to retrieve the results and graphs from the "https://doi.org/10.1111/ecog.06525" study. We aimed to determine if present climate and competition are factors that limit the performance of temperate species, i.e., sugar maple, red maple, and yellow birch, just above their continuous northern limit of distribution. 
 
 ## Citation 
 
@@ -10,13 +10,13 @@ Please cite this article for any work that re-uses this code.
 
 ## Data availability 
 
-Initial conditions from Lake Duparquet Research and Teaching Forest (LDRTF):
+Initial conditions from Lake Duparquet Research and Teaching Forest (FERLD):
 
 - Initial conditions for unharvested stands: Maleki, K., Marchand, P., Charron, D., Lafleur, B., & Bergeron, Y. (2021). A 249‐yr chronosequence of forest plots from eight successive fires in the Eastern Canada boreal mixedwoods. Ecology, 102(5). https://doi.org/10.1002/ecy.3306
 
 - Initial conditions for harvested stands: Brais, S., Work, T., Robert, É., O’Connor, C., Strukelj, M., Bose, A., Celentano, D., & Harvey, B. (2013). Ecosystem Responses to Partial Harvesting in Eastern Boreal Mixedwood Stands. Forests, 4(2), 364–385. https://doi.org/10.3390/f4020364
 
-Parametrisation from Quebec’s Ministry of Forests, Wildlife and Parks (MFFP) and LDRTF:
+Parametrisation from Quebec’s Ministry of Forests, Wildlife and Parks (MFFP) and FERLD:
 
 - Spatialized data: Réseau d’Étude et de Surveillance des Écosystèmes Forestiers (RESEF) available by contacting MFFP.
 
